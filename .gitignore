@@ -29,7 +29,6 @@
 *.lib
 
 # Executables
-*.exe
 *.out
 *.app
 *.ipa
@@ -47,12 +46,6 @@
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
-
-# Binary Files
-Binaries/*
-
-# Builds
-Build/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
